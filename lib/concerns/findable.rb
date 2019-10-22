@@ -1,5 +1,10 @@
-def find_by_name
+module Finable
+
+
+  def find_by_name(name)
   
+  
+  end   
   
   
 end 
