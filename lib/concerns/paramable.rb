@@ -1,8 +1,8 @@
 module Paramable  
   module InstanceMethods
     
-   def 
-     include Paramable
+   def Paramable
+     include 
    end
   
     def to_param
